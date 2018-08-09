@@ -1,0 +1,22 @@
+{
+  "name": "francoissteyn.pro",
+  "version": "1.0.0",
+  "description": "Responsive Portfolio Template",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recrusive"
+  },
+  "author": "Francois Steyn",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankwas/francoissteyn.pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frankwas/francoissteyn.pro/issues"
+  },
+  "homepage": "https://github.com/frankwas/francoissteyn.pro#readme",
+  "dependencies": {
+    "node-sass": "^4.9.2"
+  }
+}
